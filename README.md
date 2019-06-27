@@ -1,6 +1,6 @@
 # model-based-coref
 
-This repository contains the data presented in "Model-based annotation of coreference" (link coming soon).
+This repository contains the data presented in "Model-based annotation of coreference" ([arXiv](https://arxiv.org/abs/1906.10724)).
 
 ### Directory structure
 - `data` contains the annotated data in JSON format
