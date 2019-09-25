@@ -23,3 +23,21 @@ This repository contains the data presented in "Model-based annotation of corefe
 `qas`, `q_ann` fields are empty in `wiki-*.json`. `a2` is empty for singly annotated documents.
 
 Run `check_agreement.py <data-file-path>` to get the inter-annotator agreement scores.
+
+### Citation
+```
+@article{DBLP:journals/corr/abs-1906-10724,
+  author    = {Rahul Aralikatte and
+               Anders S{\o}gaard},
+  title     = {Model-based annotation of coreference},
+  journal   = {CoRR},
+  volume    = {abs/1906.10724},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.10724},
+  archivePrefix = {arXiv},
+  eprint    = {1906.10724},
+  timestamp = {Thu, 27 Jun 2019 18:54:51 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-10724},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
