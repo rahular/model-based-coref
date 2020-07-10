@@ -26,18 +26,17 @@ Run `check_agreement.py <data-file-path>` to get the inter-annotator agreement s
 
 ### Citation
 ```
-@article{DBLP:journals/corr/abs-1906-10724,
-  author    = {Rahul Aralikatte and
-               Anders S{\o}gaard},
-  title     = {Model-based annotation of coreference},
-  journal   = {CoRR},
-  volume    = {abs/1906.10724},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1906.10724},
-  archivePrefix = {arXiv},
-  eprint    = {1906.10724},
-  timestamp = {Thu, 27 Jun 2019 18:54:51 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-10724},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{aralikatte-sogaard-2020-model,
+    title = "Model-based Annotation of Coreference",
+    author = "Aralikatte, Rahul and S{\o}gaard, Anders",
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.9",
+    pages = "74--79",
+    language = "English",
+    ISBN = "979-10-95546-34-4",
 }
 ```
